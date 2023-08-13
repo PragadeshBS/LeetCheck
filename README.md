@@ -31,6 +31,12 @@ Once the extension is installed, open the LeetCheck extension popup and enter a 
 
 You can enter multiple usernames to track multiple users at once. The extension will automatically fetch and display the latest statistics for each user.
 
+## Screenshots
+
+![LeetCheck Popup](./screenshots/dark.png)
+
+![LeetCheck Popup](./screenshots/light.png)
+
 ## Contributing
 
 Contributions are welcome! Feel free to submit issues and pull requests. For major changes, please open an issue first to discuss potential updates.
