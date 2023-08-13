@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "LeetCheck",
+  "version": "1.0",
+
+  "description": "Follow LeetCode users and track their progress.",
+  "icons": {
+    "32": "icons/32.png",
+    "48": "icons/48.png",
+    "96": "icons/96.png"
+  },
+
+  "permissions": ["storage"],
+
+  "browser_action": {
+    "default_icon": "icons/512.png",
+    "default_title": "LeetCheck",
+    "default_popup": "popup/index.html"
+  }
+}
