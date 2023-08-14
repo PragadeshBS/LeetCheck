@@ -21,8 +21,7 @@ LeetCheck draws inspiration from the [leetcode-following](https://github.com/cal
 
 ## Installation
 
-1. Clone this repository to your local machine.
-2. Install the extension in your Firefox from the [Mozilla Add-ons store](https://addons.mozilla.org/en-US/firefox/addon/leetcheck/)
+Install the extension in your Firefox from the [Mozilla Add-ons store](https://addons.mozilla.org/en-US/firefox/addon/leetcheck/)
 
 ## Usage
 
